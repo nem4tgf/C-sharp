@@ -1,0 +1,15 @@
+E:\C#\DotNetPJ\C-sharp\IAMATOMIC\bin\Debug\net8.0\IAMATOMIC.exe
+E:\C#\DotNetPJ\C-sharp\IAMATOMIC\bin\Debug\net8.0\IAMATOMIC.deps.json
+E:\C#\DotNetPJ\C-sharp\IAMATOMIC\bin\Debug\net8.0\IAMATOMIC.runtimeconfig.json
+E:\C#\DotNetPJ\C-sharp\IAMATOMIC\bin\Debug\net8.0\IAMATOMIC.dll
+E:\C#\DotNetPJ\C-sharp\IAMATOMIC\bin\Debug\net8.0\IAMATOMIC.pdb
+E:\C#\DotNetPJ\C-sharp\IAMATOMIC\obj\Debug\net8.0\IAMATOMIC.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\DotNetPJ\C-sharp\IAMATOMIC\obj\Debug\net8.0\IAMATOMIC.AssemblyInfoInputs.cache
+E:\C#\DotNetPJ\C-sharp\IAMATOMIC\obj\Debug\net8.0\IAMATOMIC.AssemblyInfo.cs
+E:\C#\DotNetPJ\C-sharp\IAMATOMIC\obj\Debug\net8.0\IAMATOMIC.csproj.CoreCompileInputs.cache
+E:\C#\DotNetPJ\C-sharp\IAMATOMIC\obj\Debug\net8.0\IAMATOMIC.sourcelink.json
+E:\C#\DotNetPJ\C-sharp\IAMATOMIC\obj\Debug\net8.0\IAMATOMIC.dll
+E:\C#\DotNetPJ\C-sharp\IAMATOMIC\obj\Debug\net8.0\refint\IAMATOMIC.dll
+E:\C#\DotNetPJ\C-sharp\IAMATOMIC\obj\Debug\net8.0\IAMATOMIC.pdb
+E:\C#\DotNetPJ\C-sharp\IAMATOMIC\obj\Debug\net8.0\IAMATOMIC.genruntimeconfig.cache
+E:\C#\DotNetPJ\C-sharp\IAMATOMIC\obj\Debug\net8.0\ref\IAMATOMIC.dll
