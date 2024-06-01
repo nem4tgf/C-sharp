@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{96D0DE7E-4A21-4B43-8522-6E64C51A5BF2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IAMATOMIC", "IAMATOMIC\IAMATOMIC.csproj", "{56ABB075-D767-4AA4-B821-7F4DA584AAA0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{96D0DE7E-4A21-4B43-8522-6E64C51A5BF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96D0DE7E-4A21-4B43-8522-6E64C51A5BF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96D0DE7E-4A21-4B43-8522-6E64C51A5BF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56ABB075-D767-4AA4-B821-7F4DA584AAA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56ABB075-D767-4AA4-B821-7F4DA584AAA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56ABB075-D767-4AA4-B821-7F4DA584AAA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56ABB075-D767-4AA4-B821-7F4DA584AAA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

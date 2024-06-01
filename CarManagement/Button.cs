@@ -14,6 +14,7 @@ namespace CarManagement
         //derived method we change the behavior
         public override void DrawWindow()
         {
+            base.DrawWindow();
             Console.WriteLine("Drawing a button at {0}, {1}\n", top,left);
         }
     }
