@@ -29,5 +29,24 @@ class Program
 
     //declare another Car object reference and 
     //create another Car object
+   System.Console.WriteLine("Creating another Car object and" +"assigning its memory location to redPorsche");
+   Car redPorsche = new Car();
+   redPorsche.make = "Porsche";
+   redPorsche.model = "Boxster";
+   redPorsche.color = "red";
+   redPorsche.yearBuilt = 2000;
+   System.Console.WriteLine("redPorsche is a " + redPorsche.model);
+   //change the object referenced by the myCar object
+   //reference to the object referenced by redPorsche
+   System.Console.WriteLine("Assigning redPorsche to myCar");
+   myCar = redPorsche;
+   System.Console.WriteLine("myCar details: ");
+   System.Console.WriteLine("myCar.make " + myCar.make);
+   System.Console.WriteLine("myCar.model " + myCar.model);
+   System.Console.WriteLine("myCar.color " + myCar.color);
+   System.Console.WriteLine("myCar.yearBuilt " + myCar.yearBuilt);
+   //assign null to myCar (myCar will no longer references an object)
+   myCar = null;
+   Console.ReadLine();
  }   
 }

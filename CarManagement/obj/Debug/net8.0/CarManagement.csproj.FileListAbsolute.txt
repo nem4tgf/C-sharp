@@ -1,0 +1,15 @@
+E:\C#\DotNetPJ\C-sharp\CarManagement\bin\Debug\net8.0\CarManagement.exe
+E:\C#\DotNetPJ\C-sharp\CarManagement\bin\Debug\net8.0\CarManagement.deps.json
+E:\C#\DotNetPJ\C-sharp\CarManagement\bin\Debug\net8.0\CarManagement.runtimeconfig.json
+E:\C#\DotNetPJ\C-sharp\CarManagement\bin\Debug\net8.0\CarManagement.dll
+E:\C#\DotNetPJ\C-sharp\CarManagement\bin\Debug\net8.0\CarManagement.pdb
+E:\C#\DotNetPJ\C-sharp\CarManagement\obj\Debug\net8.0\CarManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\DotNetPJ\C-sharp\CarManagement\obj\Debug\net8.0\CarManagement.AssemblyInfoInputs.cache
+E:\C#\DotNetPJ\C-sharp\CarManagement\obj\Debug\net8.0\CarManagement.AssemblyInfo.cs
+E:\C#\DotNetPJ\C-sharp\CarManagement\obj\Debug\net8.0\CarManagement.csproj.CoreCompileInputs.cache
+E:\C#\DotNetPJ\C-sharp\CarManagement\obj\Debug\net8.0\CarManagement.sourcelink.json
+E:\C#\DotNetPJ\C-sharp\CarManagement\obj\Debug\net8.0\CarManagement.dll
+E:\C#\DotNetPJ\C-sharp\CarManagement\obj\Debug\net8.0\refint\CarManagement.dll
+E:\C#\DotNetPJ\C-sharp\CarManagement\obj\Debug\net8.0\CarManagement.pdb
+E:\C#\DotNetPJ\C-sharp\CarManagement\obj\Debug\net8.0\CarManagement.genruntimeconfig.cache
+E:\C#\DotNetPJ\C-sharp\CarManagement\obj\Debug\net8.0\ref\CarManagement.dll
