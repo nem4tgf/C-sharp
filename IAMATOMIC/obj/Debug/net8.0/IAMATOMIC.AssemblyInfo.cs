@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IAMATOMIC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcab6c94c29142f67d83a12bdd6d27a523342973")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e422fa71faa05b03793a84e829f11df39ae28f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("IAMATOMIC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IAMATOMIC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

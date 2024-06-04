@@ -43,7 +43,7 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Mysql.Data": {
+            "MySql.Data": {
               "target": "Package",
               "version": "[8.0.32, )"
             }
