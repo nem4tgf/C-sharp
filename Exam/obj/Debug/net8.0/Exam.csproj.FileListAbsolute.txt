@@ -1,0 +1,15 @@
+E:\C#\DotNetPJ\C-sharp\Exam\bin\Debug\net8.0\Exam.exe
+E:\C#\DotNetPJ\C-sharp\Exam\bin\Debug\net8.0\Exam.deps.json
+E:\C#\DotNetPJ\C-sharp\Exam\bin\Debug\net8.0\Exam.runtimeconfig.json
+E:\C#\DotNetPJ\C-sharp\Exam\bin\Debug\net8.0\Exam.dll
+E:\C#\DotNetPJ\C-sharp\Exam\bin\Debug\net8.0\Exam.pdb
+E:\C#\DotNetPJ\C-sharp\Exam\obj\Debug\net8.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\DotNetPJ\C-sharp\Exam\obj\Debug\net8.0\Exam.AssemblyInfoInputs.cache
+E:\C#\DotNetPJ\C-sharp\Exam\obj\Debug\net8.0\Exam.AssemblyInfo.cs
+E:\C#\DotNetPJ\C-sharp\Exam\obj\Debug\net8.0\Exam.csproj.CoreCompileInputs.cache
+E:\C#\DotNetPJ\C-sharp\Exam\obj\Debug\net8.0\Exam.sourcelink.json
+E:\C#\DotNetPJ\C-sharp\Exam\obj\Debug\net8.0\Exam.dll
+E:\C#\DotNetPJ\C-sharp\Exam\obj\Debug\net8.0\refint\Exam.dll
+E:\C#\DotNetPJ\C-sharp\Exam\obj\Debug\net8.0\Exam.pdb
+E:\C#\DotNetPJ\C-sharp\Exam\obj\Debug\net8.0\Exam.genruntimeconfig.cache
+E:\C#\DotNetPJ\C-sharp\Exam\obj\Debug\net8.0\ref\Exam.dll

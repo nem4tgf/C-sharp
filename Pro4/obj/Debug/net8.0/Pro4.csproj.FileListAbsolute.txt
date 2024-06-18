@@ -1,0 +1,15 @@
+E:\C#\DotNetPJ\C-sharp\Pro4\bin\Debug\net8.0\Pro4.exe
+E:\C#\DotNetPJ\C-sharp\Pro4\bin\Debug\net8.0\Pro4.deps.json
+E:\C#\DotNetPJ\C-sharp\Pro4\bin\Debug\net8.0\Pro4.runtimeconfig.json
+E:\C#\DotNetPJ\C-sharp\Pro4\bin\Debug\net8.0\Pro4.dll
+E:\C#\DotNetPJ\C-sharp\Pro4\bin\Debug\net8.0\Pro4.pdb
+E:\C#\DotNetPJ\C-sharp\Pro4\obj\Debug\net8.0\Pro4.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\DotNetPJ\C-sharp\Pro4\obj\Debug\net8.0\Pro4.AssemblyInfoInputs.cache
+E:\C#\DotNetPJ\C-sharp\Pro4\obj\Debug\net8.0\Pro4.AssemblyInfo.cs
+E:\C#\DotNetPJ\C-sharp\Pro4\obj\Debug\net8.0\Pro4.csproj.CoreCompileInputs.cache
+E:\C#\DotNetPJ\C-sharp\Pro4\obj\Debug\net8.0\Pro4.sourcelink.json
+E:\C#\DotNetPJ\C-sharp\Pro4\obj\Debug\net8.0\Pro4.dll
+E:\C#\DotNetPJ\C-sharp\Pro4\obj\Debug\net8.0\refint\Pro4.dll
+E:\C#\DotNetPJ\C-sharp\Pro4\obj\Debug\net8.0\Pro4.pdb
+E:\C#\DotNetPJ\C-sharp\Pro4\obj\Debug\net8.0\Pro4.genruntimeconfig.cache
+E:\C#\DotNetPJ\C-sharp\Pro4\obj\Debug\net8.0\ref\Pro4.dll
