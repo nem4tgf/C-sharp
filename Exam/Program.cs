@@ -43,7 +43,7 @@ public class Program
                     break;
 
                 case "2":
-                    contact.GetAllContacts();
+                    contactController.GetAllContacts();
                     break;
 
                 case "3":
